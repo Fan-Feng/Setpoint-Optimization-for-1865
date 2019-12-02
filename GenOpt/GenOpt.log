@@ -1,0 +1,34 @@
+GenOpt(R) Optimization Version 3.1.1, March 29, 2016
+
+Lawrence Berkeley National Laboratory
+http://simulationresearch.lbl.gov
+Michael Wetter, MWetter@lbl.gov
+
+GenOpt Copyright (c) 1998-2016, The Regents of the
+University of California, through Lawrence Berkeley
+National Laboratory (subject to receipt of any 
+required approvals from the U.S. Dept. of Energy).
+All rights reserved.
+
+The development of GenOpt is supported by
+the U.S. Department of Energy (DOE),
+the Swiss Academy of Engineering Sciences (SATW),
+the Swiss National Energy Fund (NEFF), and
+the Swiss National Science Foundation (SNSF).
+_______________________________________________________________
+
+Configuration file : E:\SetPoint_Opt\GenOpt\optWin7.ini
+Command file       : E:\SetPoint_Opt\GenOpt\command.txt
+
+Optimization started  at : Sat Nov 30 02:27:15 CST 2019
+Optimization finished at : Sat Nov 30 14:12:39 CST 2019
+Execution time           :            11:45:24
+_______________________________________________________________
+
+Optimization terminated with error.
+
+Error message:
+**************
+
+Maximum number of iteration exceeded.
+GenOpt terminated.

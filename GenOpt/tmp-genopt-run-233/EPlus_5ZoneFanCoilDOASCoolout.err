@@ -1,0 +1,55 @@
+Program Version,EnergyPlus, Version 9.1.0-08d2e308bb, YMD=2019.11.30 03:20,
+   ************* Beginning Zone Sizing Calculations
+   ************* Beginning System Sizing Calculations
+   ************* Beginning Plant Sizing Calculations
+   ************* SizeHVACSingleDuct: Potential issue with equipment sizing for AirTerminal:SingleDuct:VAV:NoReheat = "SPACE1-1 DOAS AIR TERMINAL".
+   **   ~~~   ** User-Specified Minimum Cooling Air Flow Fraction of 1.00000 [m3/s]
+   **   ~~~   ** differs from Design Size Minimum Cooling Air Flow Fraction of 0.72766 [m3/s]
+   **   ~~~   ** This may, or may not, indicate mismatched component sizes.
+   **   ~~~   ** Verify that the value entered is intended and is consistent with other components.
+   ************* SizeHVACSingleDuct: Potential issue with equipment sizing for AirTerminal:SingleDuct:VAV:NoReheat = "SPACE2-1 DOAS AIR TERMINAL".
+   **   ~~~   ** User-Specified Minimum Cooling Air Flow Fraction of 1.00000 [m3/s]
+   **   ~~~   ** differs from Design Size Minimum Cooling Air Flow Fraction of 0.68992 [m3/s]
+   **   ~~~   ** This may, or may not, indicate mismatched component sizes.
+   **   ~~~   ** Verify that the value entered is intended and is consistent with other components.
+   ************* SizeHVACSingleDuct: Potential issue with equipment sizing for AirTerminal:SingleDuct:VAV:NoReheat = "SPACE3-1 DOAS AIR TERMINAL".
+   **   ~~~   ** User-Specified Minimum Cooling Air Flow Fraction of 1.00000 [m3/s]
+   **   ~~~   ** differs from Design Size Minimum Cooling Air Flow Fraction of 0.70799 [m3/s]
+   **   ~~~   ** This may, or may not, indicate mismatched component sizes.
+   **   ~~~   ** Verify that the value entered is intended and is consistent with other components.
+   ************* SizeHVACSingleDuct: Potential issue with equipment sizing for AirTerminal:SingleDuct:VAV:NoReheat = "SPACE4-1 DOAS AIR TERMINAL".
+   **   ~~~   ** User-Specified Minimum Cooling Air Flow Fraction of 1.00000 [m3/s]
+   **   ~~~   ** differs from Design Size Minimum Cooling Air Flow Fraction of 0.68992 [m3/s]
+   **   ~~~   ** This may, or may not, indicate mismatched component sizes.
+   **   ~~~   ** Verify that the value entered is intended and is consistent with other components.
+   ************* SizeHVACSingleDuct: Potential issue with equipment sizing for AirTerminal:SingleDuct:VAV:NoReheat = "SPACE5-1 DOAS AIR TERMINAL".
+   **   ~~~   ** User-Specified Minimum Cooling Air Flow Fraction of 1.00000 [m3/s]
+   **   ~~~   ** differs from Design Size Minimum Cooling Air Flow Fraction of 0.73653 [m3/s]
+   **   ~~~   ** This may, or may not, indicate mismatched component sizes.
+   **   ~~~   ** Verify that the value entered is intended and is consistent with other components.
+   ** Warning ** In calculating the design coil UA for Coil:Cooling:Water DOAS COOLING COIL
+   **   ~~~   ** the coil bypass factor is unrealistically large;
+   **   ~~~   ** The initial design conditions are: Tair,in = 30.2966
+   **   ~~~   **                                    Wair,in = 1.459469E-002
+   **   ~~~   **                                    Twater,in = 7.2200
+   **   ~~~   **                                    Tair,out = 11.6227
+   **   ~~~   **                                    Wair,out = 9.240000E-003
+   ** Warning ** Chiller:Electric:EIR = MAIN CHILLER:  Integrated Part Load Value (IPLV) calculated is not at the AHRI test condition.
+   **   ~~~   **  Check limits in Cooling Capacity Function of Temperature Curve, Curve Type = Curve:Biquadratic, Curve Name = MAIN CHILLER RECIPCAPFT
+   **   ~~~   **  Check limits in EIR Function of Temperature Curve, Curve Type = Curve:Biquadratic, Curve Name = MAIN CHILLER RECIPEIRFT
+   ************* Testing Individual Branch Integrity
+   ************* All Branches passed integrity testing
+   ************* Testing Individual Supply Air Path Integrity
+   ************* All Supply Air Paths passed integrity testing
+   ************* Testing Individual Return Air Path Integrity
+   ************* All Return Air Paths passed integrity testing
+   ************* No node connection errors were found.
+   ************* Beginning Simulation
+   ************* Simulation Error Summary *************
+   ** Warning ** The following schedule names are "Unused Schedules".  These schedules are in the idf
+   **   ~~~   **  file but are never obtained by the simulation and therefore are NOT used.
+   ************* Schedule:Year or Schedule:Compact or Schedule:File or Schedule:Constant=HVACTEMPLATE-ALWAYS 12.2
+   ************* Schedule:Year or Schedule:Compact or Schedule:File or Schedule:Constant=HVACTEMPLATE-DYNAMIC3
+   ************* EnergyPlus Warmup Error Summary. During Warmup: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Sizing Error Summary. During Sizing: 0 Warning; 0 Severe Errors.
+   ************* EnergyPlus Completed Successfully-- 3 Warning; 0 Severe Errors; Elapsed Time=00hr 00min 22.08sec
